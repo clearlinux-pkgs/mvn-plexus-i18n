@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-i18n
 Version  : 1.0.beta.10
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-10/plexus-i18n-1.0-beta-10.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-10/plexus-i18n-1.0-beta-10.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-10/plexus-i18n-1.0-beta-10.pom
